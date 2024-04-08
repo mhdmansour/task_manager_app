@@ -9,3 +9,10 @@ https://api.nstack.in/#/
 Regarding the state management: BLoc.
 -------------
 Regarding the local storage: Hydrated BLoc.
+------------
+
+
+To run the application:
+run the following:
+1- flutter packages get
+2- flutter run
