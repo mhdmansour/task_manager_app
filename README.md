@@ -12,7 +12,6 @@ Regarding the local storage: Hydrated BLoc.
 ------------
 
 
-To run the application:
-run the following:
+To run the application, Execute  the following:
 1- flutter packages get
 2- flutter run
